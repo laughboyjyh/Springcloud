@@ -1,1 +1,2 @@
-config-dev.yml 开发环境啊
+config:
+  info: "main branch,springcloud/config-dev.yml version=1"
